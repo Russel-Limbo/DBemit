@@ -1,0 +1,14 @@
+DOCKER
+
+- che cos'è Docker?
+è una piattaforma per contenitori per costruire, rilasciare ed eseguire applicazioni distribuite
+in modo semplice, veloce, scalabile e portabile
+
+- Un "conteiner" è un pacchetto software che ha un software
+con le sue configurazioni e i file indispensabili
+quindi sono leggeri, veloci e sicuri
+ed eseguibili in qualunque sistema perche standardizzati
+
+Il Docker è una piattaforma di collegamento tra "L'Host" e i "Container"
+- i software possono essere eseguiti o aperti senza alcun problema di spazio, tempo e luogo(che siano in cloud o premise)
+

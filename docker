@@ -12,3 +12,4 @@ ed eseguibili in qualunque sistema perche standardizzati
 Il Docker è una piattaforma di collegamento tra "L'Host" e i "Container"
 - i software possono essere eseguiti o aperti senza alcun problema di spazio, tempo e luogo(che siano in cloud o premise)
 
+Il Docker funziona grazie al "Docker Engine"
